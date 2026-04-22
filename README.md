@@ -24,6 +24,11 @@ An interactive **Streamlit dashboard** is built to visualize insights in a clear
 * Dataset used in this project (GitHub):
   [click here](https://github.com/Roushan-77/India-consumption-analysis-hces/tree/main/dataset)
 
+###  Dataset Used
+* **Statement 1 (MPCE):** Rural vs Urban expenditure comparison
+* **Statement 3R & 3U:** Category-wise spending in ₹ (food, education, health, services)
+* **Statement 4R & 4U:** Percentage distribution of expenditure across categories
+These datasets together provide a complete view of **how much people spend, where they spend, and spending priorities**.
 ---
 
 ## Features
